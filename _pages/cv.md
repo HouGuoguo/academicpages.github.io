@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Central University of Economics and Finance, Bei Jing, 2011
+* M.S. in Quantative Economics, GSEFM, Goethe University Frankfurt, Frankfurt am Main, 2018
+* Ph.D in Economics, Goethe University Frankfurt, Frankfurt am Main, 2019 (expected)
 
 Work experience
 ======
