@@ -15,45 +15,34 @@ Education
 * M.S. in Quantative Economics, GSEFM, Goethe University Frankfurt, Frankfurt am Main, 2018
 * Ph.D in Economics, Goethe University Frankfurt, Frankfurt am Main, 2019 (expected)
 
-Work experience
+Experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Since 2017.01: Research Assistant
+  * LOEWE Center Sustainable Architecture for Finance in Europe (SAFE) 
+  * Supervisor: Prof. Horst Entorf
+  * Research on the inequality in financial education; the effects of insitutional settings on financial literacy; the effects of financial literacy on wealth distribution  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2016.09-2016.12: Research Assistant 
+  * Robert Schuman Centre for Advanced Studies, European University Institute
+  * Supervisor: Prof. Bernard M. Hoekman, Mr. Stefano Inama 
+  * Examining the harmonization of rules of origins for goods among member countries in the WTO
   
-Skills
+* 2011-2014: Research Assistant
+  * The School of International Trade and Economics, Central University of Economics and Finance
+  * Supervisor: Prof. Yihong Tang
+  * Research on the trend of international trade protectionism, especially non-tariff barriers, and China's countermeasures; on constructing the composite leading index based on China's import and export licenses
+  
+* 2011.06-2011.07
+  * Gaotong Real Estate Insight Co., Ltd.
+  * Data collection and manipulation on Chinese real estate industry data
+  
+Research Interest
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* International Economics and Financial Frictions, Trade Policy, Applied Econometrics
 
-Publications
+Working Papers
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
