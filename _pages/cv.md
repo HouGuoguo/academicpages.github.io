@@ -40,9 +40,5 @@ Research Interest
 ======
 * International Economics and Financial Frictions, Trade Policy, Applied Econometrics
 
-Working Papers
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+
 
