@@ -10,4 +10,4 @@ redirect_from:
 
 This is Jia Hou's homepage.
 
-Thankss
+Thanks
