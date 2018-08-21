@@ -32,7 +32,7 @@ Experience
   * Supervisor: Prof. Yihong Tang
   * Research on the trend of international trade protectionism, especially non-tariff barriers, and China's countermeasures; on constructing the composite leading index based on China's import and export licenses
   
-* 2011.06-2011.07
+* 2011.06-2011.07: Intern
   * Gaotong Real Estate Insight Co., Ltd.
   * Data collection and manipulation on Chinese real estate industry data
   
